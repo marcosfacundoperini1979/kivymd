@@ -6,7 +6,7 @@ MDBoxLayout:
     orientation: "vertical"
     
     MDToolbar:
-        title: "vipin channel"
+        title: "coco channel"
         elevation: 10
         left_action_items: [["menu", lambda x: app.callback()]]
         right_action_items: [["dots-vertical", lambda x: app.callback_1()], ["android", lambda x: app.callback_2()]]
